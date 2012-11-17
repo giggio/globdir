@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+    <metadata>
+        <id>globdir</id>
+        <version>0.0.1.1</version>
+        <title>GlobDir</title>
+        <authors>Giovanni Bassi</authors>
+        <owners>Giovanni Bassi</owners>
+        <projectUrl>https://github.com/giggio/globdir/</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>A library that allows you to glob the file system.
+Checkout http://en.wikipedia.org/wiki/Glob_(programming) for a better understand of globbing.</description>
+        <releaseNotes>Documentation is to be developed. Right now, read the tests on the project.</releaseNotes>
+        <tags>glob</tags>
+    </metadata>
+    <files>
+        <file src="package\GlobDir.dll" target="lib\net40\GlobDir.dll" />
+    </files>
+</package>
